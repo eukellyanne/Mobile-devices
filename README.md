@@ -43,18 +43,19 @@ Aqui, o App.js exibe a tela de login centralizada usando View como nas outras au
 <summary>📦 Ver todas as imagens em grade</summary>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d54a8850-21b0-4956-a5af-fb1dabcbe64f" alt="Img 1" width="240" />
-<img src="https://github.com/user-attachments/assets/7a2e9009-4a72-4e98-8195-fec7dc9e6051" alt="Img 2" width="240" />
-<img src="https://github.com/user-attachments/assets/a86c3328-1862-4d98-a2dc-de7e57e78cab" alt="Img 3" width="240" />
+<img src="https://github.com/user-attachments/assets/a86c3328-1862-4d98-a2dc-de7e57e78cab" alt="Img 2" width="240" />
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1a49f38e-b6f5-45fb-8e53-ce24ef340c15" alt="Img 4" width="240" />
-<img src="https://github.com/user-attachments/assets/d9837d47-7c0e-4145-8e5f-e8bd4e191142" alt="Img 5" width="240" />
+<img src="https://github.com/user-attachments/assets/1a49f38e-b6f5-45fb-8e53-ce24ef340c15" alt="Img 3" width="240" />
+<img src="https://github.com/user-attachments/assets/d9837d47-7c0e-4145-8e5f-e8bd4e191142" alt="Img 4" width="240" />
+<img src="https://github.com/user-attachments/assets/0555ffec-7778-4ee5-95a0-39481ee5be8f" alt="Img 5" width="240" />
+
 </p>
 </details>
 
 ## Comandos necessários para rodar aplicação
 
-- npm install (caso haja um clone do repositório, só roda o projeto com o npm instalado)
+- npm install (caso seja feito um clone do repositório, só roda o projeto com o npm instalado)
 - npx create-expo-app@latest nome --template blank (criar projeto do zero)
 - npm start 
 
