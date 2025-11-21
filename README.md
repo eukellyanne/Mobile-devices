@@ -76,7 +76,21 @@ Aqui, o App.js exibe a tela de login centralizada usando View como nas outras au
 
 - npm install (caso seja feito um clone do repositório, só roda o projeto com o npm instalado)
 - npx create-expo-app@latest nome --template blank (criar projeto do zero)
-- npm start 
+- npm start
+
+## Firebase com .env
+
+###  Exemplo de arquivo `.env`
+
+FIREBASE_API_KEY=your_api_key
+FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+FIREBASE_DATABASE_URL=https://your_project.firebaseio.com
+FIREBASE_PROJECT_ID=your_project_id
+FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+FIREBASE_APP_ID=your_app_id
+
+
 
 
 
