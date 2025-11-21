@@ -4,6 +4,25 @@
 
 Desenvolver um site que funcione bem, seja fácil de usar e se adapte a diferentes tamanhos de tela, como computadores e celulares, garantindo uma boa experiência para todos os usuários.
 
+## Objetivo do Projeto
+
+Esse projeto foi desenvolvido como parte da disciplina de Desenvolvimento de Dispositivos Móveis, com o objetivo de aplicar conceitos de:
+
+- Componentização com React Native
+- Navegação entre telas
+- Consumo de dados do Firebase
+- Organização de pastas
+- Boas práticas com variáveis de ambiente (.env)
+
+
+## Funcionalidades 
+
+- [x] Tela inicial (Home)
+- [x] Listagem de cursos (dados vindos do Firebase)
+- [x] Estrutura modular (screens, services, components)
+- [x] Integração com Firebase
+- [x] Uso de variáveis de ambiente com `.env`
+
 
 ## Estrutura da Branch
 
