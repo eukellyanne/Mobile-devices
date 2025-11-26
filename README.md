@@ -60,9 +60,9 @@ Esse projeto foi desenvolvido como parte da disciplina de Desenvolvimento de Dis
 
 ## Comandos necessários para rodar aplicação
 
-- npm install (caso seja feito um clone do repositório, só roda o projeto com o npm instalado)
-- npx create-expo-app@latest nome --template blank (criar projeto do zero)
-- npm start
+- `npx create-expo-app@latest nome --template blank` 
+- `npm start` / **W** (WEB)
+- `npm start` 
 
 ## Firebase com .env
 
