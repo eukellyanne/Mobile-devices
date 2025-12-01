@@ -38,8 +38,26 @@ Esse projeto foi desenvolvido como parte da disciplina de Desenvolvimento de Dis
    ```bash
    cd  Mobile-devices
 
+
 ## Ferramentas e Linguagem utilizada
 [![Minhas habilidades](https://skillicons.dev/icons?i=git,github,react,vscode,npm,javascript,nodejs,)](https://skillicons.dev)
+
+## Estrutura do Projeto
+
+```
+src/
+├── config/
+│   └── FirebaseConfig.js   # Configuração do Firebase
+├── data/
+│   └── coursesService.js   # Serviços do Firebase
+├── navigation/
+│   └── StackNavigator.js   # Configuração da navegação
+└── screens/
+    ├── LoginScreen.js      # Tela de login
+    ├── HomeScreen.js       # Tela principal com lista
+    ├── DetailsScreen.js    # Detalhes do curso
+    └── ProfileScreen.js    # Perfil do usuário
+```
 
 ## Descrição das Telas 
 
